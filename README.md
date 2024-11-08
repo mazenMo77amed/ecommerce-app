@@ -26,7 +26,7 @@ Welcome to **Ecommerce App**, a fully functional online store built with **React
 
 ## Demo
 
-You can view the live demo of the Ecommerce App here: https://mazenmo77amed.github.io/ecommerce-app/
+ https://mazenmo77amed.github.io/ecommerce-app/
 
 
 
