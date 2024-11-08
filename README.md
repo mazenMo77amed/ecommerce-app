@@ -30,4 +30,3 @@ You can view the live demo of the Ecommerce App here: https://mazenmo77amed.gith
 
 
 
-يمكنك الآن إضافة هذا إلى README الخاص بك لعرض مشروعك بشكل أنيق وواضح.
